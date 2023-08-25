@@ -1,6 +1,6 @@
 <h1>Bankist Website Recreation</h1>
 
-<p>This project is a recreation of the Bankist website as part of the course "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann. The goal of this project is to practice and apply various JavaScript and CSS concepts covered in the course to create an interactive and responsive bank website.</p>
+<p>This project is a recreation of the Bankist website as part of the course "The Complete JavaScript Course 2023: From Zero to Expert!" by Jonas Schmedtmann. The goal of this project is to practice and apply various JavaScript and CSS concepts covered in the course to create an interactive bank website.</p>
 
 <h2>Project Description</h2>
 
