@@ -39,7 +39,7 @@
 
 <h2>Credits</h2>
 
-<p>The original design and idea for the Bankist website are part of the "The Complete JavaScript Course 2023: From Zero to Expert!" course by Jonas Schmedtmann.</p>
+<p>The original design and idea for the Bankist website are part of the <a href="https://www.udemy.com/course/the-complete-javascript-course/?utm_source=adwords-learn&utm_medium=udemyads&utm_campaign=DSA_CA_Tech&utm_content=deal4584&utm_term=_._ag_76808851605_._ad_623904154925_._de_c_._dm__._pl__._ti_dsa-796176361085_._li_9000416_._pd__._&gclid=CjwKCAjwoqGnBhAcEiwAwK-OkbAm3LNTX_oWrbF_q5hziSB1uem7ZurhwI-9Mb4pk2fwZoHjdkxx0hoCZsEQAvD_BwE">"The Complete JavaScript Course 2023: From Zero to Expert!"</a> course by Jonas Schmedtmann.</p>
 
 <h2>Acknowledgments</h2>
 
